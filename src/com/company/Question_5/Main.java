@@ -12,6 +12,10 @@ public class Main {
 
         /* ANSWER QUESTION HERE:
 
+        A abstract class hides some of the mechanics of the class, this helps when you need the basic things
+        from that class but don't need everything that comes with it. It may be useful when doing userInteraction
+        so they don't have to see the mechanics or the things they don't need to know.
+
 
 
          */
